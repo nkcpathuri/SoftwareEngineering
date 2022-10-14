@@ -1,12 +1,12 @@
-User Stories:-An erp is used to manage the Resources for college and inventory.Here in college  employees,students,faculty etc . We need a log-in page with verification of the account . Session time out for security.Forgot password and re-set password . We need an option to change the user name and the details.In KL University we have so many branches and programs we have to maintain all the details of the students in well designed managing System so, we use ERP.
-                   Here we are given with KL University ERP. We need Different types of roles in erp system to manage the students,faculty, and non-teaching staff. Roles to be involved are Administrator,Student, faculty and office. The design of the database is to be in a way that it follows all rules of normalization. 
-                   There is an Administrator role where he has the access to the all roles means the students,faculty and office with read,write,modify and adding user. He has all the permissions with him.
-                  Teacher should have a option to mark attendance,upload marks,sharing course material
- and he should get accessed to the only his class students.
-                 Office role is there where they can generate reports, status of the students and to maintain the fee payment datails with them.
-                Student role is there where he can register for a course and he can choose his sections and the details of the teacher and course ID, course Name, Faculty Name at the time of the registration.Student have to pay the fee for transport and tuition.
+User Stories:
+>An erp is used to manage the Resources for college and inventory.Here in college  employees,students,faculty etc . We need a log-in page with verification of the account . Session time out for security.Forgot password and re-set password . We need an option to change the user name and the details.In KL University we have so many branches and programs we have to maintain all the details of the students in well designed managing System so, we use ERP.
+>Here we are given with KL University ERP. We need Different types of roles in erp system to manage the students,faculty, and non-teaching staff. Roles to be involved are Administrator,Student, faculty and office. The design of the database is to be in a way that it follows all rules of normalization. 
+>There is an Administrator role where he has the access to the all roles means the students,faculty and office with read,write,modify and adding user. He has all the permissions with him.
+>Teacher should have a option to mark attendance,upload marks,sharing course material and he should get accessed to the only his class students.
+>Office role is there where they can generate reports, status of the students and to maintain the fee payment datails with them.
+>Student role is there where he can register for a course and he can choose his sections and the details of the teacher and course ID, course Name, Faculty Name at the time of the registration.Student have to pay the fee for transport and tuition.
 
-Advantages and DisAdvantages of ERP:-
+Advantages and DisAdvantages of ERP:
 1. Complete Automation
 >A robust solution for college management is the implementation of ERP software. It helps the authorities coordinate every aspect of college work. They keep track of the students, pupils, coordinators, teachers, tests, fees, and more. It enables easy and quick decision making too.
 >The information is available across a single integrated dashboard. This facilitates swift communication between departments. Automation also reduces the chance of errors that comes from manual work. It eliminates repetitive work for data evaluation and processing. Hence, the ERP software takes on a holistic approach that allows comprehensive college management. 
@@ -26,7 +26,7 @@ Advantages and DisAdvantages of ERP:-
 >At Lee & Nee Software (Exports) Limited, we design the best ERP software solutions for colleges. Known as Campus Konnect, our ERP software is tailor-made according to the college verticals and other requirements. The complete ERP offers different modules taking care of online admissions to student exams. You can visit the website for more information. 
 
 Issues:-
-Most of the issues are faced by the Students where he or she is facing at Fee payment's for tuition or transport or mess. At time of registration not mentioning on how many courses we need to opt.
+>Most of the issues are faced by the Students where he or she is facing at Fee payment's for tuition or transport or mess. At time of registration not mentioning on how many courses we need to opt.
 
  
                  
