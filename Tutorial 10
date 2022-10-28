@@ -1,0 +1,52 @@
+User story for transferring money
+Sending money through mobile apps can speed up the transaction process. Unlike checks, digital money transfers can be instantly processed, making it easier
+to manage the user’s finances, and not cause delays, especially on large transactions.
+
+Aside from the fast processing speed, money transfers through fintech apps also reduce service charges and paperwork. They can offer external bank transfers
+with lower fees. Using the steps above, you’ll be able to generate a user story on money transfers just like this one:
+
+. User story for withdrawing cash
+Another innovation fintech offers is the convenience of withdrawing money online. Money can be withdrawn online if users have means of retrieving the physical
+cash through cardless cash automated teller machines (ATM). But how do they work, you say?
+
+Users are given a unique code via text message or a fintech mobile app that they can input into a cash machine to withdraw money without using their cards. 
+This cardless technology can be drawn using quick response (QR) codes or near-field communication (NFC).
+
+Check out this user story about withdrawing cash online.
+
+User story for checking your account balance
+It’s important for your customers to know how much money they have in their accounts and how much of their balance can be used for spending. So regularly
+checking their accounts physically through the bank could bring so much hassle for them.
+
+This is one of the biggest conveniences fintech resolves in their mobile apps. As long as users are enrolled in the digital services, they can easily check
+their balances as easily as ABC.
+
+User story for depositing money
+Now, what if users want to add more money to their accounts without physically going to the bank? Well, fintech made this an easy peasy for customers too!
+
+Through the mobile deposit feature, the user can take a picture of the check then upload it through the bank’s mobile app. Have this user story on mobile 
+deposit feature:
+
+ User story for contacting customer support services
+Understanding the banking procedures can sometimes cause us to be at our wit’s end and this is where customer support services come in our way.
+
+The main goal of good customer service is to prevent confusion and address additional requests from customers. But some customer queries can be repetitive,
+hence answering them through artificial intelligence (AI) software can optimize agent availability and reduce waiting time.
+
+ User story for paying bills
+In all available ways to pay, there’s no doubt that mobile payments are the most convenient, secure, and the fastest in all. Mobile payments are also 
+available 24/7 so your customers can immediately do these transactions any time of the day.
+
+ User story for creating new account
+And fortunately, opening a new bank account is now quick and easy, too! It only takes several minutes to save the customers a trip to the bank. 
+Check out this user story example in opening a bank account online
+
+Key Takeaways
+Just as technology enhances, the fintech industry offers more variety of features designed to make financial transactions more convenient.
+You see, integrating user stories in your fintech app development process can be easy, but creating user stories can be hard.
+So here are things to take note of along the way.
+
+Use the right user personas to discover the right stories. The fintech industry can have a lot of users so categorizing them will make your job easier.
+Guide yourself in writing user stories through examples. This will help you know what to ask of your user story writers.
+Make your fintech app development an address to user stories. Users come first. They are the stakeholders of your project so addressing their needs using
+user stories is your way to your project’s favorable success.
