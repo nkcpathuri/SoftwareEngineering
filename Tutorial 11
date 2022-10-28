@@ -1,0 +1,36 @@
+Working in Agile manner, project team routinely delivers parts of software, described in User Stories. 
+Upon each Sprint a working software is delivered, with some additional features added.
+
+The advantage and drawback with User Stories is that it describe completed feature.
+Developing code for User Story has several sub-tasks, and problem is some tasks cannot be delivered within Sprint, often until end of the project. 
+Such tasks are like: integration with 3rd party API, dependency on external system.
+
+For example, web development project:
+
+WEB-122: "As a customer, I see Order Confirmation screen, where I can review items ordered, amount total, tax information. 
+I click on Pay Now button to be tranferred to SomeExtravagantPaymentService page and finish payment"
+WEB-122a: "As a customer, I want to place my Order, so that I can get my required items"
+
+WEB-122b: "As a customer, I want to review my Order so that I can verify the items ordered, amount total, tax information"
+
+WEB-122k: "As a customer, I want to pay for my Order, so that my order can be processed (and delivered to me)"
+
+Issue: client is only negotiating with SomeExtravagantPaymentService and cannot provide login details.
+Also, service does not provide beta or sandbox option for texting (in Europe it's quite common) -- dependency on 3rd party API.
+
+For example, home construction project:
+
+DWELL-234: "I want to have electricity and lightbulbs in basement installed, controlled by switch".
+
+
+Issue: even if switches and lightbulbs installed properly, this user story cannot be finished and tested until electric company 
+connect house to power line, which may happens on later stages of development. Dependency on external system.
+
+The story can be further broken down into smaller stories like:
+
+As a customer, I see the Order Confirmation screen, where I can review items ordered, amount total, tax information
+"Pay now" button which will be transfered to SomeExtravagantPaymentService page
+Complete payment
+So in this case, once you are done with Confirmation screen, you can deliver that to your client.
+You can take up SomeExtravagantPaymentService page after that once your client confirms it. 
+Till that it will be in product backlog and will not be taken to sprint.
