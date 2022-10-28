@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@nkcpathuri 
-Prabhas1111
-/
-scrum
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-scrum/week9
-@Prabhas1111
-Prabhas1111 Create week9
-Latest commit 03d1c72 7 days ago
- History
- 1 contributor
-110 lines (74 sloc)  5.09 KB
-
 User Stories:-
 Scenario 1: Successful authentication
 When the user enters the correct email address and password and selects “sign-in” CTA
@@ -47,7 +20,8 @@ When the user selects the “register” CTA
 Then route the user to the “registration” page
 
 Rules-Driven Stories
-There are also stories where the focus needs to be on the business rules. The user actions do not have much relevance within the scope of the story (there could be related stories where the user action is in focus).
+There are also stories where the focus needs to be on the business rules. The user actions do not have much relevance within the scope of the story (there could be
+related stories where the user action is in focus).
 
 For example: “As a customer searching for a product, I need to be presented the most appropriate choices, so that I am likely to find what I am looking for.”
 
@@ -76,7 +50,8 @@ Category short description
 
 7) A minimum of 3 characters needs to be entered to find a match.
 
-Example 1) Credit card authorization: “As a customer about to make a purchase, I need to be able to submit my credit card details and get authorization so that I can complete my checkout.”
+Example 1) Credit card authorization: “As a customer about to make a purchase, I need to be able to submit my credit card details and get authorization so that
+I can complete my checkout.”
 
 Acceptance criteria:
 
@@ -91,7 +66,8 @@ When the user enters incorrect credit-card-number or year-and-month-of-expiry or
 Then display “payment failed” error-message and reset the payment fields
 
 Scenario 3: Unsuccessful authorization - Insufficient balance
-When the user enters the correct credit-card-number, year-and-month-of-expiry, cvv of a card with insufficient balance and selects “sign-in” CTA and authorization fails
+When the user enters the correct credit-card-number, year-and-month-of-expiry, cvv of a card with insufficient balance and selects “sign-in” CTA and authorization
+fails
 
 Then display “payment failed” error-message and reset the payment fields
 
@@ -105,7 +81,8 @@ When the user enters the credit-card-number, year-and-month-of-expiry, cvv and s
 
 Then display “call customer service” message and reset the payment fields
 
-Example 2) Order submission for fulfillment: “As a customer who made a purchase, I need to get my order fulfilled correctly in a timely manner so that I don’t have to follow-up via customer service.”
+Example 2) Order submission for fulfillment: “As a customer who made a purchase, I need to get my order fulfilled correctly in a timely manner so that I don’t
+have to follow-up via customer service.”
 
 Acceptance criteria:
 
@@ -134,19 +111,5 @@ Order with an order-level promotion
 Order with an item-level promotion
 
 In Conclusion
-The finer points of writing user stories can at first seem overwhelming, but with practice, this agile project mentality becomes easier to grasp. Additionally, user story templates can help you if you’re first starting out.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-scrum/week9 at main · Prabhas1111/scrum
+The finer points of writing user stories can at first seem overwhelming, but with practice, this agile project mentality becomes easier to grasp. Additionally,
+user story templates can help you if you’re first starting out.
